@@ -7,3 +7,21 @@ list {
     color: #F3123D;
     max-width: 100%;
 }
+
+div.gallery {
+  display: block;
+  background-color: #cccccc;
+}
+
+div.gallery {
+    display: block;
+    float: left;
+}
+
+.clear {
+  clear: both;
+  height: 0;
+  width: 0;
+  font-size: 1px;
+  line-height: 0;
+}
