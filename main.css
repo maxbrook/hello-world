@@ -13,7 +13,7 @@ div.gallery {
   background-color: #cccccc;
 }
 
-div.gallery {
+div.gallery img{
     display: block;
     float: left;
 }
