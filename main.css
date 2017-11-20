@@ -1,0 +1,27 @@
+h1  {
+    color: #323038;
+    font-family: 'playfair display', serif;
+    text-align: center;
+    font-weight: 
+}
+
+p {
+    color: #323038;
+font-family: 'lato', sans-serif;
+    font-weight: 400
+}
+
+body {
+    background-color: rgba(94, 94, 94, 0.10);
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+
+.re {
+    text-align: center
+}
+
